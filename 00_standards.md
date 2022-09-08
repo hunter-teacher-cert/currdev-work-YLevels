@@ -1,10 +1,10 @@
 # Impacts of Computing - SOCIETY
 
-###### K-1.IC.1 Identify and discuss how tasks are accomplished with and without computing technology.
+### K-1.IC.1 Identify and discuss how tasks are accomplished with and without computing technology.
 
 Common tasks include sending a letter by email vs. post, taking a picture with a smart phone vs. camera, buying something with an app vs. with cash at a store.
 
-###### K-1.IC.2 Identify and explain classroom and home rules related to computing technologies.
+### K-1.IC.2 Identify and explain classroom and home rules related to computing technologies.
 
 Rules could include when it’s okay to use a device, what programs or apps are okay to use, how to treat the equipment, etc.
 
