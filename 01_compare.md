@@ -6,9 +6,8 @@
 Focus | Code.org | CS in SF
 --- | --- | --- 
 Mission/Purpose |  Code.org/about: Code.org® is an education innovation nonprofit dedicated to the vision that every student in every school has the opportunity to learn computer science as part of their core K-12 education. We expand access to computer science in schools, with a focus on increasing participation by young women and students from other underrepresented groups.  | csinsf.org/about.html: We aim to accomplish this by incorporating CS into the core curriculum for all students in the lower grades (Pre-K to 8). By beginning in the earliest grades and with all children, we will normalize a discipline that has been long dominated by a selective group of the population. 
-Major Differences | <ul><li>Starts students in K immediately on the computer</li><li> next item?</li></ul> | <ul><li>Students in K have an unplugged unit to start CS instruction</li><li> next item </li></ul>
-Major Similarities | Sim in Code.org | Sim in CS in SF
-Strengths | Str in Code.org | Str in CS in SF
-Weaknesses | Weak in Code.org | Weak in CS in SF
-Takeaways | Code.org | CS in SF
+Major Differences | <ul><li>Starts students in K immediately on the computer</li><li>Focuses on coding and programming</li><li>Teacher Dashboard keeps track of student progress</li></ul> | <ul><li>Students in K have an unplugged unit to start CS instruction</li><li>Focuses on most standards across computer science topics</li><li>Teacher needs to create their own system to keep track of student progress</li></ul>
+Major Similarities | <ul><li>Covers coding and programming</li><li>Courses are differentiated according to grade level</li><li>Free</li></ul> | <ul><li>Covers coding and programming</li><li>Courses are differentiated according to grade level</li><li>Free</li></ul>
+Strengths | <ul><li>Teachers can track student progress and see their work in real-time</li></li>Teachers do not need a background in CS to teach the course</li><li>Students can work independently through the courses at their own pace</li></ul> | <ul><li>The courses for each grade level are differentiated by students' CS background</li><li>Gives a strong foundation in CS before diving into coding and programming</li><li>Aligns with CS standards!</li></ul>
+Takeaways | I like the idea of code.org as a last resort for teachers that do not feel comfortable teaching programming. However, I do not believe it is sufficient enough to teach CS - the curriculum units do not cover fundamental aspects of CS, such as digital citizenship.  | If I were teaching CS full-time in the classroom, I would most likely use much of the curriculum from CS in SF. I like the differentiated options for students depending on their past-exposure to CS.
 
